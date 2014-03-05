@@ -23,3 +23,7 @@ msvc/Debug
 msvc/cisk/Debug
 msvc/Release
 msvc/cisk/Release
+
+# Huge intellisense file
+*.sdf
+*.opensdf
