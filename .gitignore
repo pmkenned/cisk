@@ -21,3 +21,5 @@
 
 msvc/Debug
 msvc/cisk/Debug
+msvc/Release
+msvc/cisk/Release
