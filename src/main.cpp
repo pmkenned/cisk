@@ -1,7 +1,6 @@
 #include <iostream>
 #include <SDL.h>
 
-
 #include <boost/lambda/lambda.hpp>
 #include <iostream>
 #include <iterator>
