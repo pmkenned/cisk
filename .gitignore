@@ -18,6 +18,7 @@
 
 # Vim swap files
 *.swp
+*.dSYM/
 
 msvc/Debug
 msvc/cisk/Debug

@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
- 
-#include <SDL.h>
-#include <SDL_opengl.h>
- 
+
+#include "SDL.h"
+#include "SDL_opengl.h"
+
 void Display_InitGL()
 {
     glShadeModel( GL_SMOOTH );
